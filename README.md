@@ -6,3 +6,4 @@ https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJt
 2. November 12 - JavaScript for Kids chapters 1- 4
 3. November 13 - JavaScript for Kids chapter 5-6
 4. November 14 - JavaScript for Kids chapter 7 and simple Rock-Scissors-Paper game on my own. 
+5. November 15 - JavaScript for Kids chapter 8 - Functions
