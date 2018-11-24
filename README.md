@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJt
 3. November 13 - JavaScript for Kids chapter 5-6
 4. November 14 - JavaScript for Kids chapter 7 and simple Rock-Scissors-Paper game on my own. 
 5. November 15 - JavaScript for Kids chapter 8 - Functions
+6. November 16 - JavaScript for Kids chapter 9 - the DOM and jQuery (only part of the chapter - Selecting DOM Elemenets)
+7. November 21 - whatsdev youtube channel - tutorial on building Digital Clock
