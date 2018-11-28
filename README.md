@@ -9,3 +9,7 @@ https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJt
 5. November 15 - JavaScript for Kids chapter 8 - Functions
 6. November 16 - JavaScript for Kids chapter 9 - the DOM and jQuery (only part of the chapter - Selecting DOM Elemenets)
 7. November 21 - whatsdev youtube channel - tutorial on building Digital Clock
+8. November 24 - JavaScript30 by Wes Bos https://javascript30.com/ - Day 1: Drum Kit
+9. November 25 - JavaScript30 by Wes Bos https://javascript30.com/ - Day2: Clock in JS and CSS
+10. November 26 - JavaScript30 by Wes Bos https://javascript30.com/  - Day 3: Spacing, blur and color
+11. November 28 - 
