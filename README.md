@@ -12,4 +12,4 @@ https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJt
 8. November 24 - JavaScript30 by Wes Bos https://javascript30.com/ - Day 1: Drum Kit
 9. November 25 - JavaScript30 by Wes Bos https://javascript30.com/ - Day2: Clock in JS and CSS
 10. November 26 - JavaScript30 by Wes Bos https://javascript30.com/  - Day 3: Spacing, blur and color
-11. November 28 - 
+11. November 28 - Change Background Color on Click 
