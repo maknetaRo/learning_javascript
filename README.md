@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJt
 11. November 28 - Change Background Color on Click 
 12. November 29 - started: Introduction to JavaScript on Codecademy 
 13. December 3 - started: Building Interactive JavaScript Websites
-14. December 6 - finished ChoreDoor Project on Codecademy 
+14. December 6 - finished ChoreDoor Project on Codecademy  https://github.com/maknetaRo/learning_javascript/tree/master/choreBot
