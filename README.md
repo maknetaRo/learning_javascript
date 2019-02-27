@@ -17,3 +17,4 @@ https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJt
 13. December 3 - started: Building Interactive JavaScript Websites
 14. December 6 - finished ChoreDoor Project on Codecademy  https://github.com/maknetaRo/learning_javascript/tree/master/choreBot
 15. February 26 - came back to JavaScript for Kids chapter 9 - the DOM and jQuery (the whole chapter)
+16. February 27 - Eloquent JavaScript - chapter 1 - Values, Types and Operators and chapter 2 - Program Structure 
